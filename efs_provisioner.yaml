@@ -21,7 +21,7 @@ spec:
             - name: FILE_SYSTEM_ID
               value: fs-152ba5c4
             - name: AWS_REGION
-              value: ap-south-1
+              value: ap-south-1a
             - name: PROVISIONER_NAME
               value: lw-course/aws-efs
           volumeMounts:
